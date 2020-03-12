@@ -1,4 +1,7 @@
 #Tomcat publish data
-#Thu Mar 12 14:57:23 KST 2020
+#Thu Mar 12 22:54:31 KST 2020
 org.eclipse.jst.jee.server\:ch_04_servlet=C\:\\Program Files\\Apache Software Foundation\\Tomcat 8.5\\wtpwebapps\\ch_04_servlet
+org.eclipse.jst.jee.server\:ch_07_servletLifeCycle=C\:\\Program Files\\Apache Software Foundation\\Tomcat 8.5\\wtpwebapps\\ch_07_servletLifeCycle
 org.eclipse.jst.jee.server\:ch_03_first=C\:\\Program Files\\Apache Software Foundation\\Tomcat 8.5\\wtpwebapps\\ch_03_first
+org.eclipse.jst.jee.server\:ch_08_formTag=C\:\\Program Files\\Apache Software Foundation\\Tomcat 8.5\\wtpwebapps\\ch_08_formTag
+org.eclipse.jst.jee.server\:ch_05_servletMapping=C\:\\Program Files\\Apache Software Foundation\\Tomcat 8.5\\wtpwebapps\\ch_05_servletMapping

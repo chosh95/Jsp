@@ -1,9 +1,11 @@
 #Tomcat publish data
-#Mon Mar 16 18:22:28 KST 2020
+#Mon Mar 16 22:25:49 KST 2020
 org.eclipse.jst.jee.server\:ch_11_jspObject=C\:\\Program Files\\Apache Software Foundation\\Tomcat 8.5\\wtpwebapps\\ch_11_jspObject
+org.eclipse.jst.jee.server\:ch_13_Cookie=C\:\\Program Files\\Apache Software Foundation\\Tomcat 8.5\\wtpwebapps\\ch_13_Cookie
 org.eclipse.jst.jee.server\:ch_12_servlet_dataShare=C\:\\Program Files\\Apache Software Foundation\\Tomcat 8.5\\wtpwebapps\\ch_12_servlet_dataShare
 org.eclipse.jst.jee.server\:ch_07_servletLifeCycle=C\:\\Program Files\\Apache Software Foundation\\Tomcat 8.5\\wtpwebapps\\ch_07_servletLifeCycle
 org.eclipse.jst.jee.server\:ch_05_servletMapping=C\:\\Program Files\\Apache Software Foundation\\Tomcat 8.5\\wtpwebapps\\ch_05_servletMapping
+org.eclipse.jst.jee.server\:ch_14_Session=C\:\\Program Files\\Apache Software Foundation\\Tomcat 8.5\\wtpwebapps\\ch_14_Session
 org.eclipse.jst.jee.server\:ch_08_formTag=C\:\\Program Files\\Apache Software Foundation\\Tomcat 8.5\\wtpwebapps\\ch_08_formTag
 org.eclipse.jst.jee.server\:ch_04_servlet=C\:\\Program Files\\Apache Software Foundation\\Tomcat 8.5\\wtpwebapps\\ch_04_servlet
 org.eclipse.jst.jee.server\:ch_09_JspScript=C\:\\Program Files\\Apache Software Foundation\\Tomcat 8.5\\wtpwebapps\\ch_09_JspScript
